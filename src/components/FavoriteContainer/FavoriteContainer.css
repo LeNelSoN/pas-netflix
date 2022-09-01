@@ -1,3 +1,7 @@
 .offcanvas.offcanvas-start{
     width: 250px !important;
 }
+.scroll{
+    overflow:auto;
+    overflow-x:hidden;
+}

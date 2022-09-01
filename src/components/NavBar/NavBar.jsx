@@ -12,7 +12,7 @@ function NavBar({setSearch}) {
   }
 
   return (
-  <nav className="navbar navbar-dark bg-dark">
+  <nav className="navbar navbar-dark ">
     <div className="container">
       <form className="w-100 d-flex justify-content-end" role="search">
         <div className='me-2'>
